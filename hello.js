@@ -1,3 +1,3 @@
 function hello() {
-  return "Hello World!";
+  return "This is going to be a passed test!";
 }
